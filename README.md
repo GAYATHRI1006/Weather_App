@@ -1,5 +1,3 @@
-# React Weather App 
-A simple and responsive weather application built using React and the OpenWeatherMap API. It displays the current weather based on the searched city.
 
 ## Live Demo
 
